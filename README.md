@@ -22,7 +22,7 @@ These credentials are the ones used for connecting to MySQL.
 # Screenshots:  
   
 Homepage:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print00.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print00.PNG)  
   
     
 Buying:
