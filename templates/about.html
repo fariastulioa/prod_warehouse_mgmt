@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>
+            ProdMGMT
+        </title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body style="margin:30px;padding:10px">
+        <br>
+        <div class="jumbotron">
+        <h1 align="center" class="display-4">ProdMGMT</h1>
+
+        <p align="center" class="lead">Sistema de gerenciamento de estoque</p>
+        <p align="center">Baseado em Python e MySQL</p>
+        <p align="center">
+        <a class="btn btn-primary btn-lg" href="{{ url_for('home') }}" role="button">Home</a>
+        </p>
+        <hr class="my-4">
+        <meta charset="utf-8">
+        <br>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        </div>
+        
+        <font size="+2"><p align="center" class="fw-bold">Sobre o projeto</p></font>
+        <font size="+1">
+        <br>
+        <p align="center" class="lh-base">Trata-se de um sistema de gerenciamento de produtos fictícios, em que o usuário pode interagir com o banco de dados MySQL de forma
+        intuitiva por meio da aplicação Web. As páginas Web são construídas com templates Jinja para permitir interação com Python e tem a formatação ajustada via Bootstrap.
+        O usuário pode realizar operações típicas (compra, venda, movimentação) com os produtos e visualizar os dados dos bancos em tabela. As tabelas, que contém entidades
+        relacionadas entre si, são as seguintes: <br>
+        <br>
+        <b><strong>Tabela produtos:</strong></b> contém o ID, nome, custo (de fabricação/aquisição) e preço (de venda ou "capitalização líquida") de cada produto. <br>
+        <b><strong>Tabela lotes:</strong></b> contém o ID de cada lote, bem como o ID do container em que está localizado, o ID do produto que o compõe e quantidade do produto em questão. <br>
+        <b><strong>Tabela containers:</strong></b> contém o tipo, a localização e o ID de cada container. <br>
+        <b><strong>Tabela transações:</strong></b> contém o ID de cada transação, o ID do produto sendo manipulado, o ID do container onde ocorre a transação, a quantidade, o horário que a transação
+        ocorreu e o tipo de transação (compra, venda, retirada ou recebimento). <br>
+        </p></font>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    </body>
+</html>
