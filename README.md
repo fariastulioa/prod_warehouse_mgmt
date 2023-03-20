@@ -26,36 +26,36 @@ Homepage:
   
     
 Buying:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print01_compra.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print01_compra.PNG)  
  
    
 Selling:  
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print02_venda.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print02_venda.PNG)  
    
    
 Moving:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print03_mov.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print03_mov.PNG)  
   
     
 Browsing products:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print04_prods.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print04_prods.PNG)  
  
    
 Browsing transactions:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print05_trans.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print05_trans.PNG)  
    
    
 Browsing containers:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print06_cont.PNG)
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print06_cont.PNG)
   
     
 Browsing batches:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print07_lotes.PNG) 
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print07_lotes.PNG) 
  
    
 Gross revenue stats:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print08_stats.PNG)  
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print08_stats.PNG)  
 
 
 About:
-![](https://github.com/fariastulioa/prod_warehouse_mgmt/tree/main/screenshots/print09_about.PNG)
+![](https://github.com/fariastulioa/prod_warehouse_mgmt/blob/main/screenshots/print09_about.PNG)
