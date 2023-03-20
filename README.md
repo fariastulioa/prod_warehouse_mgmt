@@ -15,3 +15,5 @@ Fictional products warehouse management system based on Python/MySQL/Flask
 
 The MySQL Database is created/populated by 1st running create_product_management_db.py, followed by populate_transactions.py  
 Once the Database is properly generated, the Web App for product management can be started by running mysql_mgmt.py  
+All of the Python files (.py) will initially prompt the user for username/password info as input via console.
+These credentials are the ones used for connecting to MySQL.
